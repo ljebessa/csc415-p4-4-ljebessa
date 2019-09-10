@@ -1,0 +1,3 @@
+/Users/lidiyajebessa/Desktop/csc415-p4-ljebessa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lidiyajebessa/Desktop/csc415-p4-ljebessa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lidiyajebessa/Desktop/csc415-p4-ljebessa/cmake-build-debug/CMakeFiles/addersubbers.dir
